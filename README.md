@@ -21,3 +21,9 @@ Wordcloud
 
 <img width="363" alt="Screen Shot 2022-04-20 at 1 58 26 PM" src="https://user-images.githubusercontent.com/96019418/164293527-47c10cd3-59c5-4667-971e-4f8d4041af60.png">
 
+Barchart
+
+<img width="429" alt="Screen Shot 2022-04-20 at 2 01 44 PM" src="https://user-images.githubusercontent.com/96019418/164294051-1d553fb5-e53f-46f9-9418-38b19d182673.png">
+
+
+
