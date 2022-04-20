@@ -1,4 +1,5 @@
 
+
 **INFO 6105- Data Science Engineering Methods and Tools**
 
 # TextMining,Sentiment, and Timeseries analysis with NLP
@@ -24,6 +25,20 @@ Wordcloud
 Barchart
 
 <img width="429" alt="Screen Shot 2022-04-20 at 2 01 44 PM" src="https://user-images.githubusercontent.com/96019418/164294051-1d553fb5-e53f-46f9-9418-38b19d182673.png">
+
+Sentiment Analysis Of Poems:
+
+<img width="462" alt="Screen Shot 2022-04-20 at 2 03 43 PM" src="https://user-images.githubusercontent.com/96019418/164294452-06936a57-485c-401b-8346-4d1ffc458460.png">
+
+<img width="417" alt="Screen Shot 2022-04-20 at 2 05 26 PM" src="https://user-images.githubusercontent.com/96019418/164294614-8b57c978-efc4-4fe9-954b-8bbd1d26f818.png">
+
+<img width="910" alt="Screen Shot 2022-04-20 at 2 05 53 PM" src="https://user-images.githubusercontent.com/96019418/164294674-6463a892-92ac-4473-8e67-f065ff50366b.png">
+
+Binmomial Distribution of Tragedies:
+
+<img width="461" alt="Screen Shot 2022-04-20 at 2 07 08 PM" src="https://user-images.githubusercontent.com/96019418/164294836-40f0f5ba-8efb-4152-bbda-f8d2498eb1cb.png">
+
+
 
 
 
