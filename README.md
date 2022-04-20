@@ -1,4 +1,4 @@
-<img width="1440" alt="Screen Shot 2022-04-17 at 3 10 56 PM" src="https://user-images.githubusercontent.com/96019418/164293046-4e217776-8dc6-4ae6-8179-d031dab0995d.png">
+
 **INFO 6105- Data Science Engineering Methods and Tools**
 
 # TextMining,Sentiment, and Timeseries analysis with NLP
@@ -16,4 +16,8 @@ Used ML operations like Natural Language Processing for
 1) Sentiment Analysis 
 2)  Time series analysis on the dataset using libraries like Nltk sentiment analyzer, SciPy, Seaborn 
 and plotted histogram, boxplots, time series charts to display the results
+
+Wordcloud
+
+<img width="363" alt="Screen Shot 2022-04-20 at 1 58 26 PM" src="https://user-images.githubusercontent.com/96019418/164293527-47c10cd3-59c5-4667-971e-4f8d4041af60.png">
 
