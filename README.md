@@ -1,3 +1,4 @@
+<img width="1440" alt="Screen Shot 2022-04-17 at 3 10 56 PM" src="https://user-images.githubusercontent.com/96019418/164293046-4e217776-8dc6-4ae6-8179-d031dab0995d.png">
 **INFO 6105- Data Science Engineering Methods and Tools**
 
 # TextMining,Sentiment, and Timeseries analysis with NLP
